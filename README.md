@@ -1,4 +1,4 @@
 # README
 
-doing in feature-2 branch
+changed in the 2nd branch
 # blog
