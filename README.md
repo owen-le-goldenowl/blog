@@ -1,4 +1,4 @@
 # README
 
-doing in master branch
+doing in feature-1 branch
 # blog
